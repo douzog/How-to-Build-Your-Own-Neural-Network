@@ -1,7 +1,10 @@
-# AI-Powered-Women
+# How to Build Your Own Neural Network
 
-- Materials for "How to Train Your Own Neural Network", a hands-on tutorial by Isabella Douzoglou on September 12, 2026
-- Attendees see what a convolutional neural network sees when it looks at a photo, using a cat from the Oxford-IIIT Pet dataset
+Ever wondered about the math behind neural networks, or what all the technical terms actually mean? This session walks through the most relevant mathematics, core concepts, and step-by-step code needed to build, train, and run inference with deep neural networks.
+
+Presented Saturday, September 12 @ MIT for AI-Powered women
+
+
 
 ## Contents
 
